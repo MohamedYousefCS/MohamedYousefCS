@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-#### 🏢 I'm a Software Engineer at an information technology institute.
+#### 🏢 I'm a Software Engineer at information technology institute.
 #### I really enjoy learning programming languages and frameworks.
 #### I also enjoy implementing designs.
 #### Ask me about my experience with JavaScript, Angular, MS SQL Server, and ASP.NET, or anything related to web development and .NET technologies.
